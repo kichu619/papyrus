@@ -1,0 +1,17 @@
+#inputSection{
+    padding:20px 0px; 
+    height:80px;
+}
+
+#resultSection {
+    padding:20px 0px; 
+    height:100px;
+}
+
+#result{
+    color: red;
+}
+
+.btn {
+    width:90.18px;
+}
